@@ -1,0 +1,76 @@
+kasa1.json :
+[
+  1, 10, 20, 50, 75, 100, 150, 200, 250
+]
+
+kasa2.json :
+[
+  5, 50, 100, 250, 375, 500, 750, 1000, 1250
+]
+
+kasa3.json :
+[
+  10, 100, 200, 500, 750, 1000, 1500, 2000, 2500
+]
+
+kasa4.json : 
+[
+  20, 200, 400,1000, 1500, 2000, 3000, 4000, 5000
+]
+
+
+kasa5.json : 
+[
+  300, 300, 600, 1500, 2250, 3000, 4500, 6000, 7500
+]
+
+kasa6.json:
+[
+  1,1,1,1,1,1,1,1,1, 1 ,1,1,1,1,1,5000,10000,20000,20000,20000,50000
+]
+
+
+
+kasalar.json : 
+[
+	{
+		"isim": "Başlangıç Kasası",
+    "açıklama": "Başlangıç olarak ideal olan bir kasa.",
+		"fiyat": "100",
+    "kasaid": "1"
+	},
+	{
+		"isim": "Orta Düzey Kasa",
+    "açıklama": "Orta düzeyde olan bir kasa.",
+		"fiyat": "500",
+    "kasaid": "2"
+	},
+	{
+		"isim": "Yüksek Seviye Kasa",
+    "açıklama": "Yüksek seviye bir kasa.",
+		"fiyat": "1000",
+    "kasaid": "3"
+	},
+	{
+		"isim": "Elit Seviye Kasa",
+    "açıklama": "Elit seviye bir kasa.",
+		"fiyat": "2000",
+    "kasaid": "4"
+	},
+	{
+		"isim": "Efsanevi Seviye Kasa",
+    "açıklama": "Efsanevi bir kasa.",
+		"fiyat": "3000",
+    "kasaid": "5"
+	},
+  {
+		"isim": "Kumarbaz Kasa",
+    "açıklama": "Tamamen şansa dayalı bir kasa.",
+		"fiyat": "5000",
+    "kasaid": "6"
+	}
+  
+
+]
+
+//Hepsini Farklı .json Dosyalarına Yapınız Aynı .json Dosyasına Atmayınız
